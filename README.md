@@ -1,4 +1,4 @@
-# Mamata Bhojanalaya Website
+# Basic Website
 A simple responsive website for the restaurant Mamata Bhojanalaya, built as part of my internship project.
 ## About
 This website showcases the restaurant's menu, location, and contact information. It is designed to be responsive and easy to navigate for customers.
